@@ -31,6 +31,7 @@ And if it is impossible to make John Jackson win return -1.
 - The third line contains M space-separated integers B1,B2,…,BM.
 
 #### Example Input:
+```python
 2
 2 3
 2 2
@@ -38,10 +39,12 @@ And if it is impossible to make John Jackson win return -1.
 4 3
 1 3 2 4
 6 7 8
-
+```
 #### Example Output:
+```python
 2
 1
+```
 
 #### Explanation:
 <b>Example case 1: </b>We can perform two swaps ― each time, we swap a pack of 2 votes from A and a pack of 5 votes from B. After that, John Jackson gets 5+5=10 votes and Jack Johnson gets 2+2+5=9 votes.
