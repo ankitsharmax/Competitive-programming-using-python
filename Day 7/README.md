@@ -10,6 +10,8 @@ Definition: NQueen is the problem of placing N Queens on an N*N chessboard so th
 
 <b><center>4*4 NQueen Example</center></b><br>
 
+#### Solution 1
+
 <table>
     <tr>
         <td></td>
@@ -37,6 +39,8 @@ Definition: NQueen is the problem of placing N Queens on an N*N chessboard so th
     </tr>
 </table>
 
+#### Solution 2 (mirror image of Solution 1)
+
 <table>
     <tr>
         <td></td>
@@ -63,6 +67,9 @@ Definition: NQueen is the problem of placing N Queens on an N*N chessboard so th
         <td></td>
     </tr>
 </table>
+
+#### NOte:
+For every NQueen solution it's mirror image is also one of its solution
 
 #### Algo: 
 will be uploaded soon
